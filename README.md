@@ -9,3 +9,5 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Z3R07-RED.Z3R07-RED)
+
+[! [Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = Z3R07-RED & layout = compact )] (https://github.com/anuraghazra/github-readme- estadísticas)
