@@ -1,4 +1,6 @@
-### Hey there <img src="Imag/Z3R07-RED.jpg" width="25px">
+<p align="center">
+<img src="Imag/Z3R07-RED.png" title="Z3R07-RED" width="350px" height="350px">
+</p>
 
 <a href="https://www.instagram.com/clubsecreto_07/">
   <img align="left" alt="club secreto 07 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
