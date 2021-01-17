@@ -12,4 +12,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Z3R07-RED&show_icons=true&theme=radical)
 
-[! [Langs principales] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = Z3R07-RED )] (https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3R07-RED)](https://github.com/anuraghazra/github-readme-stats)
