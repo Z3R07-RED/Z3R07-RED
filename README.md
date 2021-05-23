@@ -32,7 +32,9 @@
   <img align="left" alt="club secreto 07 Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+<p>
 <a href="https://youtube.com/channel/UC9RNHWC3CFapIkmmXS8qYDQ" alt="undefined" src="https://img.shields.io/youtube/channel/subscribers/UC9RNHWC3CFapIkmmXS8qYDQ?style=plastic"></a>
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Z3R07-RED.Z3R07-RED)
 
