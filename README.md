@@ -14,7 +14,12 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
 <br>
+<a href="https://youtube.com/channel/UC9RNHWC3CFapIkmmXS8qYDQ">
 <img alt="Youtube" src="https://img.shields.io/badge/Club_Secreto_07-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/clubsecreto_07/">
+<img alt="Instagram" src="https://img.shields.io/badge/Club_Secreto_07-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
 </p>
 <br>
 <p>Founder of <a href="https://youtube.com/channel/UC9RNHWC3CFapIkmmXS8qYDQ">Secret Club 07</a> [2020]</p>
