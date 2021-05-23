@@ -2,6 +2,11 @@
 <img src="Imag/Z3R07-RED.png" title="Z3R07-RED" width="350px" height="350px">
 </p>
 <br>
+<p align="center">
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+<br>
 <p>Founder of <a href="https://youtube.com/channel/UC9RNHWC3CFapIkmmXS8qYDQ">Secret Club 07</a> [2020]</p>
 
 <a href="https://www.instagram.com/clubsecreto_07/">
