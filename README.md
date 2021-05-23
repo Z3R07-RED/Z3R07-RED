@@ -37,6 +37,7 @@
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Z3R07-RED.Z3R07-RED)
+![](https://img.shields.io/youtube/channel/subscribers/UC9RNHWC3CFapIkmmXS8qYDQ?style=social)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Z3R07-RED&show_icons=true&theme=radical)
 
